@@ -1,0 +1,28 @@
+﻿<Page
+    x:Class="RestaurantManager.OrderPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RestaurantManager"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50*"/>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="25*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="txtSpecial" Grid.Column="1" Grid.Row="1" TextWrapping="Wrap" Text="Special Request: Order Items:" Grid.ColumnSpan="2" Height="41" VerticalAlignment="Top" HorizontalAlignment="Left" Width="433"/>
+        <TextBlock x:Name="txtAddOrder" Margin="100,0,0,0" Grid.Row="4" TextWrapping="Wrap" Text="** Add To Orders **" Height="43" VerticalAlignment="Top" HorizontalAlignment="Left" Width="315"/>
+        <TextBlock x:Name="txtClearOrder" Margin="98,0,0,0" Grid.Row="4" TextWrapping="Wrap" Text="** Submit Order **" Grid.ColumnSpan="2" Grid.Column="1" Height="43" VerticalAlignment="Top" HorizontalAlignment="Left" Width="315"/>
+
+    </Grid>
+</Page>
