@@ -21,8 +21,8 @@
         <TextBlock x:ConnectionId='2' x:Name="txtVersion" HorizontalAlignment="Left" Margin="410,29,0,0" Grid.Row="1" TextWrapping="Wrap" Width="218" FontSize="24" Grid.ColumnSpan="2" Height="38" VerticalAlignment="Top">
         	<Run Text="Internal test version"/>
         </TextBlock>
-        <TextBlock x:ConnectionId='3' x:Name="txtViewOrder" Margin="50,0,0,48" Grid.Row="2" TextWrapping="Wrap" Text="** Go to View Orders **" RenderTransformOrigin="0.027,0.375" HorizontalAlignment="Left" Width="342" Height="40" VerticalAlignment="Bottom"/>
-        <TextBlock x:ConnectionId='4' x:Name="txtGoOrder" Grid.Column="1" Margin="108,0,0,43" Grid.Row="2" TextWrapping="Wrap" Text="** Submit Order **" HorizontalAlignment="Left" Width="285" Height="40" VerticalAlignment="Bottom"/>
+        <Button x:ConnectionId='3' x:Name="btnViewOrder" Margin="50,0,0,48" Grid.Row="2"  Content="Go to View Orders" RenderTransformOrigin="0.027,0.375" HorizontalAlignment="Left" Width="342" Height="65" VerticalAlignment="Bottom"                           />
+        <Button x:ConnectionId='4' x:Name="btnGoOrder" Grid.Column="1" Margin="108,0,0,43" Grid.Row="2" Content="Submit Order" HorizontalAlignment="Left" Width="285" Height="65" VerticalAlignment="Bottom"                         />
 
     </Grid>
 </Page>
