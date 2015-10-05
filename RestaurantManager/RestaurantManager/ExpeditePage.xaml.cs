@@ -27,6 +27,11 @@ namespace RestaurantManager
             this.InitializeComponent();
         }
 
-
+        private void AppBarButton_Click(object sender, RoutedEventArgs e)
+        {
+            Frame rootFrame = Window.Current.Content as Frame;
+            rootFrame.Navigate(typeof(MainPage));
+            Window.Current.Activate();
+        }
     }
 }
