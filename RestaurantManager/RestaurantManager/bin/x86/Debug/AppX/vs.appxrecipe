@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>d17c77dd-9b53-4555-901c-e6adfabf117f</PackageIdentityName>
     <IntermediateOutputPath>C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\obj\x86\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>51C847AC972894752D3E9150EF39FAE8524B5CFE4F46F9A902DD0EDB3B4631E5</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>F6DD4570BC6633EAF1D1FB6FB5FD2BA871743C042714B84D98C1BF0677401E83</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>d17c77dd-9b53-4555-901c-e6adfabf117f_1.0.0.0_x86__eghs6a1h7yegw</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>d17c77dd-9b53-4555-901c-e6adfabf117f_eghs6a1h7yegw!App</RegisteredUserModeAppID>
     <RegisteredPackageID>d17c77dd-9b53-4555-901c-e6adfabf117f</RegisteredPackageID>
@@ -22,7 +22,7 @@
     <AppXManifest Include="C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-05T21:52:52.235</Modified>
+      <Modified>2015-10-10T23:29:36.929</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -60,7 +60,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\entrypoint\RestaurantManager.exe">
       <PackagePath>entrypoint\RestaurantManager.exe</PackagePath>
-      <Modified>2015-10-05T21:52:51.236</Modified>
+      <Modified>2015-10-10T23:29:34.960</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -80,15 +80,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-10-05T21:52:51.801</Modified>
+      <Modified>2015-10-10T23:29:36.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.exe">
       <PackagePath>RestaurantManager.exe</PackagePath>
-      <Modified>2015-10-05T21:52:52.233</Modified>
+      <Modified>2015-10-10T23:29:36.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.Models.dll">
+      <PackagePath>RestaurantManager.Models.dll</PackagePath>
+      <Modified>2015-10-10T22:12:02.604</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml">
+      <PackagePath>RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml</PackagePath>
+      <Modified>2015-10-10T21:34:24.760</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.xr.xml">
       <PackagePath>RestaurantManager.xr.xml</PackagePath>
-      <Modified>2015-10-05T21:52:51.113</Modified>
+      <Modified>2015-10-10T23:29:34.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>

@@ -20,6 +20,10 @@
             <RowDefinition Height="9*"/>
             <RowDefinition Height="1*"/>
         </Grid.RowDefinitions>
+        <GridView  Grid.Row="0"  
+               DataContext="{StaticResource DataManager}" ItemsSource="{Binding OrderItems}" Margin="0,50,0,0">
+        </GridView>
+
         <Button x:Name="btnClearOrders" Height="59" Margin="365,0,0,0" Grid.Row="1" Content="Clear All Orders" VerticalAlignment="Top" HorizontalAlignment="Left" Width="300"/>
 
     </Grid>

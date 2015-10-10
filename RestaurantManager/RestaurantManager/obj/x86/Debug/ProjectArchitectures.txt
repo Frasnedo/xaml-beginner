@@ -1,1 +1,2 @@
+C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\RestaurantManager.Models.csproj;x86
 C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\RestaurantManager.UniversalWindows.csproj;x86

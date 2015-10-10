@@ -866,3 +866,12 @@ C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantMan
 C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\obj\x86\Debug\Core\RestaurantManager.pdb
 C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\obj\x86\Debug\Core\RestaurantManager.xr.xml
 C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\obj\x86\Debug\Core\resources.pri
+C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.Models.dll
+C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.Models.pdb
+C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml
+C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\RestaurantManager.Models.dll
+C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\RestaurantManager.Models.pri
+C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\obj\x86\Debug\Core\RestaurantManager.Models.pdb
+C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\obj\x86\Debug\Core\RestaurantManager.Models.dll
+C:\Users\Frasnedo\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\obj\x86\Debug\Core\RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml
